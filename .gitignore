@@ -134,3 +134,21 @@ models/
 
 # OSX .DS_Store file
 .DS_Store
+scripts/data/curated/tbl_consumer/_SUCCESS
+scripts/data/curated/tbl_consumer/._SUCCESS.crc
+scripts/data/curated/tbl_consumer/.part-00000-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/.part-00001-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/.part-00002-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/.part-00003-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/.part-00004-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/.part-00005-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/.part-00006-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/.part-00007-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv.crc
+scripts/data/curated/tbl_consumer/part-00000-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
+scripts/data/curated/tbl_consumer/part-00001-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
+scripts/data/curated/tbl_consumer/part-00002-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
+scripts/data/curated/tbl_consumer/part-00003-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
+scripts/data/curated/tbl_consumer/part-00004-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
+scripts/data/curated/tbl_consumer/part-00005-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
+scripts/data/curated/tbl_consumer/part-00006-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
+scripts/data/curated/tbl_consumer/part-00007-78d348aa-9f47-40ac-883b-bf51c43e1df1-c000.csv
