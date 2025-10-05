@@ -1,9 +1,9 @@
-# Generic Buy Now, Pay Later Project
+#  Buy Now, Pay Later Project Group 44
 Group members:
 
 Lachy Bowker
 
-Dion
+Dion Papadopoulos
 
 Parth
 
